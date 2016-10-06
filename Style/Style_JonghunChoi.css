@@ -1,0 +1,26 @@
+body {
+	background-color: #4cff00;
+}
+
+div#container {
+    width: 70%;
+    text-align: center;
+}
+
+div {
+    display: block;
+    margin:  auto;
+}
+
+#bio {
+    background-color: #0ff;
+    color: #f00;
+    font: Arial;
+    font-size: large;
+    font-style: italic;
+}
+
+img.person {
+    width: 150px;
+    height: 150px;
+}
