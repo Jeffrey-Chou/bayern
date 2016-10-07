@@ -1,0 +1,56 @@
+body {
+	font-family: Segoe UI, arial, sans-serif;
+	background-color: #B0BEC5;
+	color: #ECEFF1;
+    text-align: center;
+    background-image: url(../images/wat.png);
+    background-size: auto;
+}
+footer{
+    background-color: #000;
+    background-size: 100%;
+}
+div#logo {
+    padding: 15px;
+    margin: 20px auto 0px auto;
+    text-align: center;
+}
+
+div#container {
+	background-color: #90A4AE;
+	min-width:850px;
+	margin-left: auto;
+	margin-right: auto;
+	min-height: 300px;
+	margin: 0 auto -4em;
+	clear: both;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%; 
+}
+
+h1, h2, div>a {
+    text-align: center
+}
+
+ul>li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color:  #01579B;
+    outline:  none;
+}
+
+img {border:  2;}
+
+a img {outline:  none;}
+
+br{
+    height: 100px;
+        display: block;
+    margin-bottom: 20px;
+    font-size:20px;
+    line-height: 20px;
+}
